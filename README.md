@@ -19,7 +19,8 @@
 - [Blog on Certora's formal verification of smart contracts](https://dev.to/spalladino/a-look-into-formal-verification-of-smart-contracts-using-certora-3o8g)
 
 ## Commands to Run in [Gitpod](www.gitpod.io)
-```brew tap ethereum/ethereum
+``` 
+brew tap ethereum/ethereum
 brew install solidity
 ```
 
