@@ -18,6 +18,11 @@
 - [Keeping your code secure forever: Move Fast and Break Nothing by Mooly Sagiv](https://www.youtube.com/watch?v=5XIWAB4NElU)
 - [Blog on Certora's formal verification of smart contracts](https://dev.to/spalladino/a-look-into-formal-verification-of-smart-contracts-using-certora-3o8g)
 
+## Certora Workshop Repo
+- [Repo with solutions](https://github.com/shanzson/Certora-Prover-Tutorials)
+- [Original repo from EthCC worskhop](https://github.com/Certora/Tutorials/tree/michael/ethcc)
+- [Certora repo with all tutorials](https://github.com/Certora/Tutorials/tree/master)
+
 ## Commands to Run in [Gitpod](www.gitpod.io)
 ``` 
 brew tap ethereum/ethereum
