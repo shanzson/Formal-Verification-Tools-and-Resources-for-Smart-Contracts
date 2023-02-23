@@ -24,6 +24,12 @@
 - [Certora repo with all tutorials](https://github.com/Certora/Tutorials/tree/master)
 
 ## Commands to Run in [Gitpod](www.gitpod.io)
+
+1. To install Certora Prover run
+```
+pip3 install certora-cli
+```
+2. To install solidity compiler run
 ``` 
 brew tap ethereum/ethereum
 brew install solidity
